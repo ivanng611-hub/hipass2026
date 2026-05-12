@@ -163,7 +163,9 @@ If you have any questions, concerns, or requests regarding this Privacy
 Policy or our data practices, please contact us:
 
   App Name: HiPass Password Vault
+  
   Email: ivanng611@gmail.com
+  
   Version: 1.0.0
 
 
